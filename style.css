@@ -1,0 +1,48 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 980px;
+    margin: auto;
+}
+
+.wrapper-main{
+    /* padding: 0px 20px; */
+    margin-top: 20px ;
+}
+.practice{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+}
+h2{
+    padding: 10px 0;
+}
+
+/* .pc-practice{
+width: 400px;
+   
+}
+
+.hand-writing {
+ width: 400px;
+   
+} */
+
+.hand-writing img{
+    width: 300px;
+    height: 300px;
+}
+
+.jscode{
+    display: inline-block;
+    width: 200px;
+    border: 1px solid orange;
+}
+ 
